@@ -9,6 +9,6 @@ Building are usually done using `jlink`.
 $ ./gradlew jlink
 ```
 
-JDK Version/Build: `17.0.1-tem`
-Gradle (wrapper): `7.3.1`
-Other libraries: Visit [`build.gradle`](build.gradle) file.
+- JDK Version/Build: `17.0.1-tem`
+- Gradle (wrapper): `7.3.1`
+- Other libraries: Visit [`build.gradle`](build.gradle) file.
